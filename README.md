@@ -72,10 +72,28 @@
 
 </div>
 
-**📕 Latest posts [OnlineHacking](https://www.onlinehacking-net.com)**
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
+- [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
+- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
+- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
+- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/OnlineHacking)
+
+---
+
+### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-- [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://www.OnlineHacking-net.com)
