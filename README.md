@@ -31,7 +31,7 @@
 
 
 - 🔭 I’m currently working on [Cuber Ethical Hacking](https://t.me/Onlinehacking)
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Hacking, Web Design, Online Earn, Mod Hacking App
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Onlinehacking).
 - 📫 Reach me at **info@onlinehacking-net.com**
 - 💬 Ask me about Hacking or any tech related stuff.
