@@ -30,7 +30,7 @@
 
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on [Cuber Ethical Hacking](https://t.me/Onlinehacking)
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Onlinehacking).
 - 🤔 I’m looking for help with VelocityX documentation.
