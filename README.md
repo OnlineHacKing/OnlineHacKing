@@ -33,9 +33,8 @@
 - 🔭 I’m currently working on [Cuber Ethical Hacking](https://t.me/Onlinehacking)
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/Onlinehacking).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 📫 Reach me at **info@onlinehacking-net.com**
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Hacking or any tech related stuff.
 - 📫 How to reach me: [Twitter - @suman333mondal](https://twitter.com/suman333mondal) , [Youtube - @OnlineHacking](https://youtube.com/OnlineHacking)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
