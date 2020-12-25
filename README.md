@@ -89,11 +89,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [hjk](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Xerosploit- A Man-In-The-Middle Attack Framework](https://www.onlinehacking-net.com/2020/11/xerosploit-man-in-middle-attack.html)
+- [World Best Powerfull DDos Attack Tool LOIC || Live Video || How to Install LOIC Tool any Linux, Windows, Android](https://www.onlinehacking-net.com/2020/10/Best-DDos-Attack-Package-Install.html)
+- [Top 3 World Live Cyber Attack Maps for Digital Threa](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [41 Best Hacking Apps For Android Rooted & Non Rooted 2020](https://www.onlinehacking-net.com/2020/10/t-hacking-apps-for-android-2020-1.html)
+- [Top 15 Best WiFi Hacking Android Apps for 2020](https://www.onlinehacking-net.com/2020/10/15-BestWiFi-Hacking-Apps.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.OnlineHacking-net.com)
